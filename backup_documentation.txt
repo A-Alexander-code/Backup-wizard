@@ -1,0 +1,17 @@
+This is the backup wizard.
+
+You must complete the following requirements for the correct 
+operation of this program:
+1.- On the desktop of your work computer there should be a 
+	folder called "Backups"
+2.- In the storage unit there must be a folder called "My_Backups" 
+	and it must not be a subfolder of any other.
+3.- The required user (user_path) is the username of your computer.
+
+You must remember the following:
+1.- The letter of the storage unit (storage_unit) can change if you connect 
+	several devices together, that is why it is required that you write 
+	the letter every time you request to make a backup.
+2.- The program will keep an account of three backups all the time inside the 
+	storage device folder, when a new backup is created, the oldest backup 
+	will be deleted. 
